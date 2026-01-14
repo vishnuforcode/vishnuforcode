@@ -1,21 +1,17 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
-https://github.com/vishnuforcode/vishnuforcode/blob/output/github-contribution-grid-snake.svg
+
 
 <!--
 **vishnuforcode/vishnuforcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on Self projects
+- 🌱 I’m currently learning Full stack and DSA
+- 👯 I’m looking to collaborate on amazing projects ,some stadout projects !!
+-- 📫 How to reach me: https://www.linkedin.com/in/vishnu-rajora-1b8b02250/
+- 😄 Pronouns: he/him
+
